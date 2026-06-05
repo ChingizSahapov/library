@@ -1,0 +1,8 @@
+github.com/go-chi/chi/v5 v5.0.12 h1:p0ItyMV9XPbsFxygGLdMmBGsRoMmGDLvmAGFSbxqjdA=
+github.com/go-chi/chi/v5 v5.0.12/go.mod h1:DslCQbL2OYiznFReuXYUmovuv+y9EOobl5B+LBbY8sBo=
+github.com/google/uuid v1.6.0 h1:NIvaJDMnpH6FVT3LMRdmE1PouDBuW7GLTQ78e3q0z4w=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYNUqncEezQY=
+github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2SnDJfunQLYgTiIjBsX6o=
+github.com/mattn/go-sqlite3 v1.14.22 h1:2gZY6PC6kBnID23Tichd1K+Z0oS6nE/XwU+Vz/5o4kU=
+github.com/mattn/go-sqlite3 v1.14.22/go.mod h1:OMNAqLY2eGZD3yLYyVr7gB5o3Rc3iZiGbFfVt3mUCKw=
